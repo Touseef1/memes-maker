@@ -1,0 +1,212 @@
+.background-color_custom_2 {
+  background-color: #000000;
+  overflow-x: hidden;
+}
+.page2_section_1_bg_img {
+    background-image: url('/public/assets/Ellipse\ 7.png');
+    background-size: cover; /* or contain, depending on your need */
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  .navbar-background-color {
+    background-color: transparent !important;
+}
+.main-heading-page-2{
+  font-family: Inter;
+  font-size: 70px;
+  font-weight: 600;
+  line-height: 94px;
+  text-align: left;
+  color: white;
+}
+@media (max-width:767px) {
+  .main-heading-page-2{
+      font-size: 40px;
+      line-height: 53px;
+  }
+}
+.page-2-text{
+  font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+line-height: 32px;
+text-align: center;
+color: white;
+}
+.custom_button_1_pg2{
+  padding: 16px 52px 16px 52px;
+gap: 10px;
+border: none;
+border-radius: 45px;
+opacity: 1;
+background: linear-gradient(91.31deg, #9945FF 3.99%, #776FE5 22.37%, #40B8B7 44.88%, #29D7A6 66.47%, #14F194 95.87%);
+color: white;
+font-weight: bold;
+font-size: 20px;
+}
+.page2-section2-heading{
+  font-family: Inter;
+font-size: 24px;
+font-weight: 700;
+line-height: 29.05px;
+text-align: left;
+color: white !important;
+}
+.custom_border_pg2{
+  border-radius: 12px;
+  border: double 4px transparent;
+  background-image: linear-gradient(black, black), 
+  linear-gradient(180deg, #9945FF 0%, #776FE5 20%, #40B8B7 44.5%, #29D7A6 68%, #14F194 100%);
+  background-origin: border-box;
+  background-clip: padding-box, border-box;
+}
+.custom_textarea{
+  background-color: #AE47F6;
+  color: white;
+  outline: none !important;
+  border-radius: 4px;
+  padding-left: 10px;
+}
+.custom_border2{
+  border-radius: 59px;
+  border: double 2px transparent;
+  background-image: linear-gradient(black, black), 
+  linear-gradient(180deg, #9945FF 0%, #776FE5 20%, #40B8B7 44.5%, #29D7A6 68%, #14F194 100%);
+  background-origin: border-box;
+  background-clip: padding-box, border-box;
+}
+.custom-btn1-pg2{
+  background-color: transparent !important;
+  color: white !important;
+  border: none !important;
+  font-family: Inter;
+font-size: 24px;
+font-weight: 700;
+line-height: 29.05px;
+padding: 10px 52px 10px 52px;
+}
+.custom-btn1-pg2:hover{
+  background-color: #AE47F6 !important;
+  border-radius: 59px !important;
+}
+.active1{
+  background-color: #AE47F6 !important;
+  border-radius: 59px !important;
+}
+.custom-btn2-pg2{
+  background-color: transparent !important;
+  color: white !important;
+  font-family: Inter;
+font-size: 24px;
+font-weight: 700;
+line-height: 29.05px;
+padding: 10px 52px 10px 52px;
+border: double 2px transparent;
+background-image: linear-gradient(black, black), 
+linear-gradient(180deg, #9945FF 0%, #776FE5 20%, #40B8B7 44.5%, #29D7A6 68%, #14F194 100%);
+background-origin: border-box;
+background-clip: padding-box, border-box;
+border-radius: 59px !important;
+}
+.generator_custom_width{
+  width: 90px;
+  height: 82px;
+}
+@media (max-width:767px) {
+  .generator_custom_width{
+    width: 80px;
+    height: 70px;
+  }
+}
+@media (max-width:1199px) {
+  .custom-btn2-pg2 {
+    font-size: 20px;
+    padding: 10px 35px 10px 35px;
+}
+}
+@media (max-width:1199px) {
+  .custom-btn1-pg2 {
+    font-size: 20px;
+    padding: 10px 35px 10px 35px;
+}
+}
+@media (max-width:767px) {
+  .custom-btn1-pg2 {
+    font-size: 20px;
+    padding: 5px 40px 5px 40px;
+}
+}
+
+@media (max-width:767px) {
+  .custom-btn2-pg2 {
+    font-size: 20px;
+    padding: 5px 40px 5px 40px;
+}
+}
+.custom-button-3-pg2{
+padding: 18px 48px 18px 48px;
+gap: 10px;
+border-radius: 66px;
+border: double 1px transparent;
+background-image: linear-gradient(black, black), 
+linear-gradient(180deg, #9945FF 0%, #776FE5 20%, #40B8B7 44.5%, #29D7A6 68%, #14F194 100%);
+background-origin: border-box;
+background-clip: padding-box, border-box;
+color: white;
+margin-top: 30px;
+}
+.custom-button-4-pg2{
+  padding: 11px 54px 11px 54px;
+  gap: 10px;
+  border-radius: 66px;
+  border: double 1px transparent;
+  background-image: linear-gradient(black, black), 
+  linear-gradient(180deg, #9945FF 0%, #776FE5 20%, #40B8B7 44.5%, #29D7A6 68%, #14F194 100%);
+  background-origin: border-box;
+  background-clip: padding-box, border-box;
+  color: white;
+  }
+  .custom-button-5-pg2{
+    padding: 11px 68px 11px 68px;   
+    gap: 10px;
+    border-radius: 66px;
+    color: white;
+    background-color:#AE47F6;
+    border: none;
+    width: 231px;
+    }
+    @media (max-width:477px) {
+      .custom-button-5-pg2{
+        padding: 10px 20px;  
+      } 
+      .custom-button-4-pg2{
+        padding: 10px 20px; 
+      } 
+    }
+    .custom-img-border-2{
+      border-radius: 12px;
+      border: double 4px transparent;
+      background-image: linear-gradient(black, black), 
+      linear-gradient(180deg, #9945FF 0%, #776FE5 20%, #40B8B7 44.5%, #29D7A6 68%, #14F194 100%);
+      background-origin: border-box;
+      background-clip: padding-box, border-box;
+    }
+    .custom-button-6-pg2{
+padding: 12px 87px 12px 87px;
+gap: 8px;
+border-radius: 29px;
+      color: white;
+      background-color:#AE47F6;
+      border: none;
+      }
+      .custom-button-7-pg2{
+padding: 12px 37px 12px 37px;
+        gap: 8px;
+        border-radius: 29px;
+              color: white;
+              background-color:#AE47F6;
+              border: none;
+              }
+.custom-tint-img-width{
+  width: 90%;
+}
